@@ -13,5 +13,5 @@ Alter the startup configuration to run both projects (.Web and .WebApi)
 
 ## How to test
 Click 'Generate Pdf' button once the web and api have loaded
-> First run 0f the web api may take longer than usual as Puppeteer downloads a local version of Chromium to run
+> First launch of the web api may take longer than usual as Puppeteer downloads a local version of Chromium to run
 The generated pdf ('[Guid].pdf'), which should include the JS rendered chart, will created at the .WebApi project root
